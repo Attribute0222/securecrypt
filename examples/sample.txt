@@ -1,0 +1,6 @@
+This is a sample file for testing the encryption tool.
+It contains multiple lines of text.
+
+Sensitive information:
+- User: test@example.com
+- Password: 7est!ng123

@@ -1,0 +1,6 @@
+Metadata-Version: 2.4
+Name: encryption_tool
+Version: 1.0.0
+Requires-Dist: pycryptodome>=3.9.0
+Requires-Dist: click>=7.0
+Dynamic: requires-dist

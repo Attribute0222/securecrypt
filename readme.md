@@ -13,6 +13,10 @@
 ✅ **File Integrity Protection** – Ensures tamper-proof encryption  
 
 ---
+## 🔧 Tech Stack
+https://img.shields.io/badge/Python-3.7%252B-blue
+https://img.shields.io/badge/Crypto-PyCryptodome-green
+https://img.shields.io/badge/GUI-Tkinter-orange
 
 ## **Installation** ⚙️  
 
